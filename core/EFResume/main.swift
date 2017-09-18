@@ -62,9 +62,8 @@ func input(templete: inout EFTemplete) {
                 "手机：13065701520"
             ],
             "社交账号": [
-                "微博：" + "@eyrefree777".a(link: "https://weibo.com/eyrefree777"),
-                "Twitter: " + "@eyrefree777".a(link: "https://twitter.com/EyreFree777"),
-                "GitHub：" + "EyreFree".a(link: "https://github.com/EyreFree")
+                "微博：" + "@小灰是蜗牛君".a(link: "https://weibo.com/snailroom"),
+                "GitHub：" + "Joneze".a(link: "https://github.com/Joneze")
             ]
         ]
     )

@@ -4,7 +4,6 @@
 <a href="https://travis-ci.org/EyreFree/EFResume"><img src="http://img.shields.io/travis/EyreFree/EFResume.svg"></a>
 <a href="https://github.com/apple/swift"><img src="https://img.shields.io/badge/language-swift-orange.svg"></a>
 <a href="https://raw.githubusercontent.com/EyreFree/EFResume/master/LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-000000.svg"></a>
-<a href="https://twitter.com/EyreFree777"><img src="https://img.shields.io/badge/twitter-@EyreFree777-blue.svg?style=flat"></a>
 <a href="http://weibo.com/eyrefree777"><img src="https://img.shields.io/badge/weibo-@EyreFree-red.svg?style=flat"></a>
 <img src="https://img.shields.io/badge/made%20with-%3C3-orange.svg">
 </p>
